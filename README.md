@@ -1,1 +1,1 @@
-<h1> File Explore Application</h1>
+<h1> File Explorer Application</h1>
