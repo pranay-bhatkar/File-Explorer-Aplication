@@ -18,6 +18,9 @@ public class FileExplorer {
         SwingUtilities.invokeLater(() -> {
             FileExplorerUI fileExplorerUI = new FileExplorerUI();
             fileExplorerUI.setVisible(true);  // Show the UI
+            
+            
+            
         });
     }
 }
