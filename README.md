@@ -1,4 +1,4 @@
-# <div align="center">🌟 Java File Explorer</div>
+# <div align="center">🌟 Java File Explorer Application</div>
 
 ## 📖 Overview
 
