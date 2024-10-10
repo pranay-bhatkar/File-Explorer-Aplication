@@ -19,7 +19,7 @@ public class FileOperations {
 	
 	
 	public static boolean renameFile(File file, String newName) {
-		File newFile = new File(file.getParent(), newName);
+		File newFile = new File(file.getParent(), newName); // rename 
 		return file.renameTo(newFile);
 	}
 	
